@@ -43,7 +43,7 @@ This Voting System web application built using Django can serve as the automated
 ## 📸 ScreenShots
 <figure>
   <img
-  src="ss/DB.png"
+  src="/ss/DB.png"
   alt="The beautiful MDN logo.">
   <figcaption>Database Design</figcaption>
 </figure>
